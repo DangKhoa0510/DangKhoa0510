@@ -9,4 +9,4 @@
 
 
 
-<a href="https://app.daily.dev/10_05"><img src="https://api.daily.dev/devcards/6e4b5e3515b140d2b6cafc7243e3e7a4.png?r=346" width="400" alt="Khoa's Dev Card"/></a>
+<a href="https://app.daily.dev/10_05"><img src="https://api.daily.dev/devcards/v2/EsJ9WtDN0i90WCOczXP51.png?type=default&r=htz" width="356" alt="Khoa's Dev Card"/></a>
